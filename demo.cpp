@@ -5,7 +5,7 @@
 int main()
 {
 	Fl::screen_count();
-	Fl::screen_scale(0, 1.25f);
+	//Fl::screen_scale(0, 1.25f);
 
 	Fl_Double_Window window(240, 80);
 	window.color(FL_WHITE);
